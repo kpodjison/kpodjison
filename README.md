@@ -37,45 +37,6 @@ I'm a Full-Stack Developer and UI/UX-focused Web Developer passionate about buil
 * UI/UX Design Improvements and Front-End Development
 * Security-focused Web Applications
 
-## 🛠️ Tech Stack
-
-### Front-End
-
-* HTML5
-* CSS3 / SCSS
-* JavaScript (ES6+)
-* TypeScript
-* React
-* Next.js
-* Tailwind CSS
-* Bootstrap
-
-### Back-End
-
-* PHP
-* Laravel
-* Python
-* Django
-* REST APIs
-
-### Database
-
-* MySQL
-
-### Tools & Platforms
-
-* Git
-* GitLab CI
-* NPM
-* Composer
-* Cypress
-* WordPress
-
-### Design
-
-* Figma
-* Adobe Photoshop
-* Adobe Illustrator
 
 ## 🌟 Featured Projects
 
